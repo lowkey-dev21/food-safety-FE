@@ -576,7 +576,7 @@ const CourseDetailPage: React.FC = () => {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white py-4 sm:py-8">
+    <div className="min-h-screen bg-white  py-4 sm:py-8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <Link
           to="/training"
